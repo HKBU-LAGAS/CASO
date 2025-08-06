@@ -1,0 +1,19 @@
+# my env
+python==3.9.20
+cuda=12.4
+pytorch==2.5.0
+torchvision==0.20.0
+torchaudio==2.5.0
+# conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 pytorch-cuda=12.4 -c pytorch -c nvidia
+faiss==1.7.2
+# conda install conda-forge::faiss-gpu
+scipy==1.7.3
+tqdm==4.62.3
+numba==0.60.0
+numpy==1.22.4
+scikit-learn==1.0.2
+torch-sparse==0.6.18
+torch-scatter==2.1.2
+sympy==1.13.1
+torch_geometric==2.6.1
+# pip install torch_geometric
